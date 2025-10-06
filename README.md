@@ -1,123 +1,59 @@
-# 🚀 Joel Alves
+# Olá! 👋 Eu sou Joel Alves
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Estudante+de+Programa%C3%A7%C3%A3o+%F0%9F%93%9A;ReactJS+%7C+React+Native+%7C+JavaScript+%E2%9A%A1;Criando+o+futuro+uma+linha+por+vez+%F0%9F%9A%80)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Estudante+de+Programa%C3%A7%C3%A3o;React+%7C+JavaScript+%7C+React+Native;Transformando+ideias+em+c%C3%B3digo!)
   
 </div>
 
----
+## 🚀 Sobre Mim
 
-## 🙋‍♂️ **Sobre Mim**
+- 🎓 **Estudante de Sistemas Para Internet** apaixonado por desenvolvimento
+- 💻 Atualmente aprendendo **React.js**, **React Native** e **JavaScript**
+- 🎯 Buscando minha **primeira oportunidade** na área de tecnologia
+- 🌱 Sempre ansioso para aprender novas tecnologias
 
-```javascript
-const joel = {
-  nome: "Joel Alves",
-  area: "Estudante de Programação",
-  situacao: "🎓 Estudante dedicado em busca da primeira oportunidade",
-  foco: ["React.js", "React Native", "JavaScript", "Mobile Development"],
-  objetivo: "💼 Ingressar no mercado de trabalho tech",
-  paixao: "Transformar ideias em código funcional",
-};
+## 🛠️ Stack Tecnológico
 
-console.log("🌟 Sempre aprendendo, sempre evoluindo!");
-```
+<div align="center">
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🛠️ **Stack Tecnológica**
+</div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelalveslima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🎯 Objetivos Atuais
+
+<div align="center">
+
+### � **2024-2025: Foco Total no Crescimento**
+
+</div>
+
+- 🎯 **Meta Principal:** Conquistar minha primeira vaga como desenvolvedor júnior
+- 📚 **Estudando Ativamente:** React.js, React Native e JavaScript moderno (ES6+)
+- � **Construindo Portfólio:** Desenvolvendo projetos reais para demonstrar habilidades
+- 🤝 **Networking:** Aberto a colaborações, mentorias e oportunidades de aprendizado
+- 📱 **Especialização:** Focado em desenvolvimento mobile com React Native
+- 🌟 **Próximo Nível:** Evoluir para desenvolvedor full-stack em 2026
+
+## 📫 Vamos nos Conectar!
 
 <div align="center">
   
-### **Frontend & Mobile**
-  
-<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,git" alt="Tech Stack" />
-
-### **Ferramentas & Ambiente**
-
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,npm" alt="Tools" />
-
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelalveslima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelalveslima&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelalveslima&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 **Foco Atual**
-
-<div align="center">
-
-| 🎓 **Aprendendo** | 🚀 **Desenvolvendo** | 💡 **Próximos Passos** |
-| :---------------: | :------------------: | :--------------------: |
-|     React.js      |     Apps Mobile      |       TypeScript       |
-|   React Native    |      APIs REST       |        Next.js         |
-|  JavaScript ES6+  |     UI/UX Design     |        Node.js         |
-|   Git & GitHub    |  Projetos Pessoais   |    Cloud Platforms     |
-
-</div>
-
----
-
-## 📈 **Jornada de Aprendizado**
-
-
-gitgraph
-    commit id: "🎯 Início dos Estudos"
-    commit id: "📚 JavaScript Básico"
-    commit id: "⚛️ Descobrindo React"
-    commit id: "📱 React Native"
-    commit id: "🚀 Projetos Reais"
-    commit id: "💼 Busca por Oportunidade"
-
-
----
-
-## 💭 **Mindset**
-
-<div align="center">
-
-> _"Cada linha de código é um passo mais próximo do meu objetivo"_
-
-**🎯 Meta 2026:** Conquistar minha primeira vaga como desenvolvedor  
-**🌱 Crescimento:** Sempre disposto a aprender tecnologias novas  
-**🤝 Colaboração:** Aberto a contribuições e networking
-
-</div>
-
----
-
-## 📱 **Vamos Conectar?**
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-lima-317341199)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoralimaalvesjoel@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joelalveslima3)
-    
-</div>
-
----
-
-## 🎮 **Fun Facts**
-
-<div align="center">
-
-🧠 **Aprendizado:** Estudo diários  
-☕ **Combustível:** Café e determinação  
-🎵 **Playlist:** Lo-fi para programar  
-🏆 **Objetivo:** Ser desenvolvedor full-stack  
-📚 **Leitura atual:** Clean Code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-lima-317341199)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoralimaalvesjoel@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joelalveslima3)
 
 </div>
 
@@ -125,18 +61,8 @@ gitgraph
 
 <div align="center">
   
-### 🌟 **"Transformando café em código desde 2024"** ☕➡️💻
-  
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjoelalveslima&label=Profile%20Views&countColor=%2300d9ff&style=flat&labelStyle=upper)
+**"Transformando café em código desde 2024"** ☕➡️💻
 
-**⭐ Se você chegou até aqui, que tal dar uma estrela nos meus repositórios? 😉**
-
-</div>
-
----
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joelalveslima&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=joelalveslima&color=58A6FF&style=flat-square&label=Visualizações+do+Perfil)
 
 </div>
