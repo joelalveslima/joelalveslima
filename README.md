@@ -71,7 +71,7 @@ console.log("🌟 Sempre aprendendo, sempre evoluindo!");
 
 ## 📈 **Jornada de Aprendizado**
 
-```mermaid
+
 gitgraph
     commit id: "🎯 Início dos Estudos"
     commit id: "📚 JavaScript Básico"
@@ -79,7 +79,7 @@ gitgraph
     commit id: "📱 React Native"
     commit id: "🚀 Projetos Reais"
     commit id: "💼 Busca por Oportunidade"
-```
+
 
 ---
 
